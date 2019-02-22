@@ -4,8 +4,7 @@
 
 
 ### Data directory with large csv files
-Data/*
-
+data/*
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
